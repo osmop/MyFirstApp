@@ -2,60 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/home/osmo/SOFTA-EXTRA/android-SDK/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jar="/home/osmo/GIT/MyFirstApp/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/home/osmo/GIT/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_0c319ff14a081f2c2c3a80f855d5f2a8dfe184d9/classes.dex" />
+        sha1="ecf384090521429ffef135640ea6a17ec93f3eb9">
+        <dex dex="/home/osmo/GIT/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_6a7365591144962c22cdd0544e6c0ef768792515/classes.dex" />
     </item>
     <item
-        jar="/home/osmo/GIT/MyFirstApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jar="/home/osmo/GIT/MyFirstApp/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/home/osmo/GIT/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_ed9205bfc14834fee673a782c6f08ee7a2bf96a8/classes.dex" />
-    </item>
-    <item
-        jar="/home/osmo/GIT/MyFirstApp/app/build/intermediates/incremental-classes/debug/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a2cce9368d6b76a8b7593229c09a121c478c1e85">
-        <dex dex="/home/osmo/GIT/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f166949e4448b83826addd5a653faf07587368b/classes.dex" />
-    </item>
-    <item
-        jar="/home/osmo/GIT/MyFirstApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/home/osmo/GIT/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_b9112754776a5ed1e4c6192fb4706846c864ba6e/classes.dex" />
-    </item>
-    <item
-        jar="/home/osmo/GIT/MyFirstApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/home/osmo/GIT/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_8d012147d40011cefb30b6df706210fc913e13d3/classes.dex" />
-    </item>
-    <item
-        jar="/home/osmo/GIT/MyFirstApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="b33b4d0896ecc3828cb5edf58417d19ca94261f4">
-        <dex dex="/home/osmo/GIT/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6a2f269f837efa3fac0d13a1cef8f64a594bf76e/classes.dex" />
-    </item>
-    <item
-        jar="/home/osmo/GIT/MyFirstApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="/home/osmo/GIT/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_6e312b9e579344d43fc3467525d1b2b7624ef5bf/classes.dex" />
-    </item>
-    <item
-        jar="/home/osmo/GIT/MyFirstApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="/home/osmo/GIT/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_8168081424b4bbc9819be3c3a7f71207afb98af1/classes.dex" />
+        sha1="5423cd2d686869552775fc578da2a6cbab406b0e">
+        <dex dex="/home/osmo/GIT/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_f04d821387fcb97f53b2c9ee198c1dde96149e24/classes.dex" />
     </item>
 
 </items>

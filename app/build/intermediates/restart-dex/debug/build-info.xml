@@ -1,29 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86_64"
-    api-level="23"
-    density="560dpi"
-    format="3"
-    timestamp="8282132993158" >
+    api-level="21"
+    density="xxhdpi"
+    format="4"
+    timestamp="7556573935895"
+    verifier="JAVA_RESOURCES_CHANGED" >
 
     <task
         name="javac"
-        duration="495" />
+        duration="2128" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="279" />
+        duration="505" />
     <task
         name="verifier"
-        duration="14" />
+        duration="20" />
 
     <artifact
         location="/home/osmo/GIT/MyFirstApp/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="8282132993158" >
+    <build
+        timestamp="7556573935895"
+        verifier="JAVA_RESOURCES_CHANGED" >
         <artifact
             location="/home/osmo/GIT/MyFirstApp/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
